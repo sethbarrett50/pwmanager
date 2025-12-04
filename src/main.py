@@ -4,10 +4,10 @@ import sys
 
 from getpass import getpass
 
-from .auth import AuthManager
-from .crypto_utils import derive_key_from_master
-from .password_generator import PasswordGenerator
-from .vault import (
+from .core.auth import AuthManager
+from .core.crypto_utils import derive_key_from_master
+from .core.password_generator import PasswordGenerator
+from .core.vault import (
     add_credential,
     delete_credential,
     get_credential,

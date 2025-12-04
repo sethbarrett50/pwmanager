@@ -16,7 +16,7 @@ cli:
 
 gui:
 	@echo "Starting GUI Password Manager"
-	$(UV) $(PYM) src.gui
+	$(UV) $(PYM) src.ui.app
 
 format:
 	$(UV) ruff check . --select I --fix
