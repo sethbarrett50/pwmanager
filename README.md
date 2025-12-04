@@ -11,4 +11,4 @@ To run:
 
 ---
 
-This project was done in conjunction with Joe Waddel. Its been crazy seeing him grow from no Python knowledge to being able to make something like this.
+This project was done in conjunction with Joe Waddell. Its been crazy seeing him grow from no Python knowledge to being able to make something like this.
